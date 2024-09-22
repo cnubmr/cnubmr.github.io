@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cnubmr.github.io/sitemap.html.gz
+Sitemap: https://cnubmr.github.io/app/sitemap.html.gz
+Sitemap: https://cnubmr.github.io/assets/sitemap.html.gz
+Sitemap: https://cnubmr.github.io/css/sitemap.html.gz
+Sitemap: https://cnubmr.github.io/data/sitemap.html.gz
+Sitemap: https://cnubmr.github.io/includes/sitemap.html.gz
+Sitemap: https://cnubmr.github.io/item/sitemap.html.gz
+Sitemap: https://cnubmr.github.io/src/sitemap.html.gz
